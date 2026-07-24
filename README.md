@@ -50,4 +50,4 @@ Clone the repository:
 
 ```bash
 
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/IKHLASSROH/file-type-identification-tool
