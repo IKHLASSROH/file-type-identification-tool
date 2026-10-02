@@ -10,17 +10,17 @@ A cybersecurity tool that identifies file types using Magic Numbers and analyzes
 
 
 
--File type detection using Magic Numbers  
+-File type detection using Magic Numbers.
 
-- SHA256 hash calculation  
+- SHA256 hash calculation.  
 
--File size analysis  
+-File size analysis.  
 
--Extension verification  
+-Extension verification.  
 
--Fake extension detection  
+-Fake extension detection.  
 
--Folder scanning
+-Folder scanning.
 
 
 
