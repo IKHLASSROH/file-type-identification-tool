@@ -28,15 +28,15 @@ A cybersecurity tool that identifies file types using Magic Numbers and analyzes
 
 
 
-- PNG
+- PNG.
 
-- JPEG
+- JPEG.
 
-- PDF
+- PDF.
 
-- ZIP
+- ZIP.
 
-- Windows Executable
+- Windows Executable.
 
 
 
